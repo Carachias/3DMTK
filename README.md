@@ -2,7 +2,7 @@
 <br>
 Application (with GUI) to inspect various 3D Model fileformats and convert them to ML-ready Pointclouds <br>
 <br>
-![UI Image:](images/3dmtkui.png?raw=true "UI")
+![UI Image:](images/images_3dmtkui.png?raw=true "UI")
 <br>
 <br>
 <br>
